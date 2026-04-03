@@ -108,6 +108,8 @@ Explorer les 4 pages avec les slicers disponibles
 ### Auteur
 Farid Oumnay — Junior Data Analyst
 
-🌐 faridoumnay.github.io
-💼 linkedin.com/in/farid-oumnay
-🐙 github.com/Faridoumnay
+ faridoumnay.github.io
+ 
+ linkedin.com/in/farid-oumnay
+ 
+ github.com/Faridoumnay
